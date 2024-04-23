@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ReactDotNetApp/.vs
+/ReactDotNetApp/reactdotnetapp.client/obj/Debug
+/ReactDotNetApp/ReactDotNetApp.Server/bin/Debug/net8.0
+/ReactDotNetApp/ReactDotNetApp.Server/obj
